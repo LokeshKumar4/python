@@ -11,7 +11,8 @@
 *.sln.docstates
 *.__pycache__
 *.contactkey
-*.contactkey.py
+*.contactkeys.py
+contactkeys.py
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
