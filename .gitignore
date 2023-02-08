@@ -10,7 +10,7 @@
 *.userosscache
 *.sln.docstates
 *.__pycache__
-*.contactkey.py
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -67,6 +67,7 @@ artifacts/
 StyleCopReport.xml
 
 # Files built by Visual Studio
+contactkey.py
 *_i.c
 *_p.c
 *_h.h
