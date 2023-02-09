@@ -13,8 +13,8 @@
 *.contactkey
 *.contactkeys.py
 contactkeys.py
-
-
+*.vscode
+*.txt
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
