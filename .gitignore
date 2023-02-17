@@ -19,6 +19,7 @@ contactkeys.py
 *.csv
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+*.ipynb_checkpoints
 
 # Mono auto generated files
 mono_crash.*
