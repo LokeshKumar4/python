@@ -1,0 +1,2 @@
+19 can be written in binary as 0b10011 and in octal as 0o23 and in hexadecimal as 0x13
+26 can be written in binary as 0b11010 and in octal as 0o32 and in hexadecimal as 0x1a
